@@ -2,7 +2,7 @@
 This repository hosts the trained weights and architecture for a CNN-based model designed to predict sgRNA cleavage efficiency.
 
 ### Technical Details
-- **Developed using AI-augmented coding techniques
+- **Developed using** AI-augmented coding techniques.
 - **Architecture:** Convolutional Neural Network (CNN).
 - **Format:** Exported for **TensorFlow.js** (Client-side inference).
 - **Training Data:** Based on the **Doench et al. (2016)** dataset and Microsoft Research Azimuth project.
